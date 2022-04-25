@@ -1,0 +1,55 @@
+body {
+	background: #2488de url('imagens/fundo.png');
+
+	font: 16px Palatino, URW Palladio, serif;
+
+
+
+}
+
+#principal {
+	width: 1000px;
+	margin: 10px auto;
+}
+
+#menu {
+	text-align: center;
+	background: #f9f9f9;
+	padding: 15px;
+	margin: 10px 0px;
+
+}
+#conteudo {
+	background: whitesmoke;
+	font-size: 20px;
+	padding: 20px;
+
+
+}
+
+a {
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 15px;
+	}
+
+#menu a:link, #menu a:visited {
+	color: black;
+	padding: 8px 12px;
+}
+#menu a:hover {
+	color: black;
+	background: skyblue;
+	text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+}
+.centralizar {
+	text-align: center;
+}
+.img-luiza {
+	border: 10px solid #c3c3ae;
+}
